@@ -3,7 +3,7 @@ CSS- Unites, Box Models, Fonts
 
 This project is a simple web page created using HTML and CSS. It demonstrates the use of CSS units, box model, and basic styling techniques as per the given assignment requirements.
 
-How to Run
+# How to Run
 
 Download or clone the project:
 
