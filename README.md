@@ -7,7 +7,7 @@ This project is a simple web page created using HTML and CSS. It demonstrates th
 
 Download or clone the project:
 
-git clone <your-repository-link>
+git clone <https://github.com/kjwashim/Task3-CSS--Unites-Box-Models-Fonts.git>
 
 Open the project folder:
 
